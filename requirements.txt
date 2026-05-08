@@ -1,0 +1,7 @@
+ultralytics>=8.3
+fast-plate-ocr[onnx-gpu]>=0.3
+opencv-contrib-python==4.11.0.86
+numpy
+huggingface_hub>=0.20
+mediapipe>=0.10.33
+sahi>=0.11
