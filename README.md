@@ -1,2 +1,2 @@
-# TEKNOFEST: 5G-YAPAY ZEKA ILE AKILLI YOL GUVENLIGI YARISMASI
+# TEKNOFEST 2026 — Real-Time Traffic Safety Analysis with 5G QoD Support (Edge AI) 
 
