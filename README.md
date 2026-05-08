@@ -1,0 +1,2 @@
+# Teknofest26-5G-YAPAY-ZEKA-LE-AKILLI-YOL-G-VENL-YARI-MASI
+rapidresponse
